@@ -1,0 +1,17 @@
+{
+  "title": "88Key",
+  "description": "全球首个娱乐 RWA 资本网络，聚焦娱乐资产数字化、资本化与全球价值流通的新路径。",
+  "language": "zh-hans",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  },
+  "plugins": [
+    "search"
+  ],
+  "pluginsConfig": {
+    "search": {
+      "maxResults": 20
+    }
+  }
+}
